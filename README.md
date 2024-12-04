@@ -1,2 +1,8 @@
-# Magic_Quote
-This project, built using JavaScript, serves as an engaging platform to inspire and connect individuals through quotes. It allows users to generate random quotes from famous personalities via an API or create and upload their own. The app's primary purpose is to promote creativity, motivation, and community by sharing meaningful quotes.
+# Magic Quote CRUD Application
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
